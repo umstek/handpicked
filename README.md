@@ -61,3 +61,22 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 1. 7zip: because I can't imagine why people are still using WinRAR. Use LZMA2 with compression level set to Ultra for best results (this is slow). 7zip file manager opens most if not all archive formats.
 2. Windows context menu "Send to compressed (zipped) folder": if you want it to support more platforms.
 3. ZArchiver: for Android.
+
+## Download managers
+
+1. Free Download Manager: has most of what you need + torrents.
+2. ADM: for Android.
+
+## E-book readers (software)
+
+1. eReader Prestigio: for Android. Supports many formats, has TTS, dark mode, font support etc.
+2. Comic Screen: a comic book reader for Android with CBZ support.
+3. Adobe Acrobat: for the default PDF experience.
+
+## Cloud storage and backup
+
+1. https://mega.nz/
+
+## E-mail providers
+
+1. https://protonmail.com/: encrypted email.
