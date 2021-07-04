@@ -80,3 +80,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 ## E-mail providers
 
 1. https://protonmail.com/: encrypted email.
+
+## Dictionary
+
+1. WordWeb: This can show similar words, subtypes, supertypes etc. If you are using the Android version, you can cheat hangman with the wildcard search support.
