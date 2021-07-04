@@ -1,7 +1,7 @@
 # handpicked
 
 Software and other stuff that I use. Storing here in case if I lose my memory. 🤷‍♂️  
-I'm not affiliated with any of the software above unless mentioned otherwise.
+I'm not affiliated with any of the software below unless mentioned otherwise.
 
 ## Video players
 
