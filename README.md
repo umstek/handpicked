@@ -14,6 +14,10 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 1. XMedia Recode
 
+## Virtualization software
+
+1. VirtualBox VM: free virtual machine software.
+
 ## Code Editors
 
 1. Visual Studio Code: Obviously. I'm not that geeky to use vim or emacs.
