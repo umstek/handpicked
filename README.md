@@ -18,6 +18,10 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 1. VirtualBox VM: free virtual machine software.
 
+## Sharing mouse and keyboard among computers
+
+1. Mouse without Boarders: A Microsoft Garage Project. Shares mouse/keyboard/clipboard/drag-drop among upto 4 PCs. Sometimes, there's a lag and this is natural. 
+
 ## Code Editors
 
 1. Visual Studio Code: Obviously. I'm not that geeky to use vim or emacs.
