@@ -3,7 +3,7 @@
 ## Frontend
 - Language: TypeScript
 - Framework: NextJS (optional)
-- State Management: RxJS based redux-equivivalent
+- State Management: RxJS based redux-equivivalent or Apollo Client if using GraphQL
 - UI Library: React
 - Styling: TailwindCSS
 - Compiler/bundler: SWC or Vite (unless using NextJS)
@@ -11,7 +11,7 @@
 ## Backend
 - Language: TypeScript
 - Framework: NestJS
-- Library: Express
+- Library: Express and Apollo if using GraphQL
 - Compiler/bundler: NestJS default (TSC)
 - Database/ORM-equivalent: MongoDB/Mongoose (flexible) or MongoDB/TypeORM (clean) or MariaDB/Prisma
 
