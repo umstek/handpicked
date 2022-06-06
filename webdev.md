@@ -7,7 +7,7 @@
 - UI Library: [React](https://reactjs.org/)
 - Components/Styling: [TailwindCSS](https://tailwindcss.com/) augmented with [Headless UI](https://headlessui.dev/)
 - Compiler/bundler: [SWC](https://swc.rs/) (NextJS uses SWC) or [Vite](https://vitejs.dev/) (Uses [esbuild](https://esbuild.github.io/))
-- Testing: [Jest](https://jestjs.io/)/[TS-Jest](https://kulshekhar.github.io/ts-jest/) or [vitest](https://vitest.dev/) (yet to try), [Testing Library](https://testing-library.com/)
+- Testing: [Jest](https://jestjs.io/)/[TS-Jest](https://kulshekhar.github.io/ts-jest/) or [vitest](https://vitest.dev/) (yet to try), [Testing Library](https://testing-library.com/) (yet to try)
 
 ## Backend
 - Language: TypeScript
@@ -25,4 +25,4 @@
 - Formatter: [Prettier](https://prettier.io/)
 - Linter: [ESLint](https://eslint.org/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- E2E Testing: [Playwright](https://code.visualstudio.com/)
+- E2E Testing: [Playwright](https://code.visualstudio.com/) (yet to try)
