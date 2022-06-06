@@ -2,16 +2,16 @@
 
 ## Frontend
 - Language: TypeScript
-- Framework: NextJS (optional) or Remix (optional)
-- State Management: RxJS based redux-equivivalent or Apollo Client if using GraphQL
+- Framework: NextJS (optional) or Remix (optional, yet to try)
+- State Management: RxJS based redux-equivivalent or Apollo Client if using GraphQL, React Router
 - UI Library: React
-- Styling: TailwindCSS
-- Compiler/bundler: SWC or Vite (unless using NextJS)
-- Testing: Jest/TS-Jest, Testing Library
+- Components/Styling: TailwindCSS augmented with Headless UI
+- Compiler/bundler: SWC (NextJS uses SWC) or Vite (Uses esbuild)
+- Testing: Jest/TS-Jest or vitest (yet to try), Testing Library
 
 ## Backend
 - Language: TypeScript
-- Framework: NestJS
+- Framework: NestJS (express based)
 - Library: Express and Apollo if using GraphQL
 - Compiler/bundler: NestJS default (TSC)
 - Database/ORM-equivalent: MongoDB/Mongoose (flexible) or MongoDB/TypeORM (clean) or MariaDB/Prisma
