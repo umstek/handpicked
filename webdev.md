@@ -1,4 +1,4 @@
-# Web frontend backend stacks
+# Web development stacks
 
 ## Frontend
 - Language: TypeScript
