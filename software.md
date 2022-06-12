@@ -20,7 +20,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 ## Sharing mouse and keyboard among computers
 
-1. Mouse without Boarders: A Microsoft Garage Project. Shares mouse/keyboard/clipboard/drag-drop among upto 4 PCs. Sometimes, there's a lag and this is natural. 
+1. Mouse without Boarders: A Microsoft Garage Project. Shares mouse/keyboard/clipboard/drag-drop among upto 4 PCs. Sometimes, there's a lag and this is natural. (If you have a logitech mouse, you can use Logi Options+ Flow.)
 
 ## Code Editors
 
@@ -62,7 +62,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 ## Office
 
 1. Microsoft Office: of course. (If you can afford it.) The Android version is good too, and with sync.
-2. WPS Office: Freeware. Lighter. Fails to render some unicode fonts such as Sinhala fonts. Android version is good too.
+2. WPS Office: Freeware. Lighter. Fails to render some unicode fonts. Android version is good too.
 3. Polaris Office: Okay I have 3 office programs in my phone and each of them has some feature that others don't.
 
 ## Note-taking software/journaling
@@ -92,7 +92,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 ## E-mail providers
 
-1. https://protonmail.com/: encrypted email.
+1. https://proton.me/: encrypted email.
 
 ## Dictionary
 
