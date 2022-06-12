@@ -36,6 +36,11 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 1. https://jsoneditoronline.org/: or just use vscode.
 
+## Database Clients
+
+1. HeidiSQL: A free client for postgres, mysql etc.
+2. MongoDBCompass: Official client for MongoDB
+
 ## Password managers
 
 1. Bitwarden: password manager for all platforms and browsers; has a vault for notes, and a built-in password generator.
