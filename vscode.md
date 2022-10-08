@@ -49,7 +49,7 @@ An extension pack that lets you open any folder in a container, on a remote mach
 GitHub theme for VS Code  
 <https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme>
 
-#### Material Icon Theme
+### Material Icon Theme
 
 Material Design Icons for Visual Studio Code  
 <https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme>
