@@ -71,14 +71,13 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 ## Compression/archiving
 
-1. [7-Zip-zstd](https://mcmilk.de/projects/7-Zip-zstd/) (7zip with additional algorithms): because I can't imagine why people are still using WinRAR. Use LZMA2 with compression level set to Ultra for best results (this is slow). 7zip file manager opens most if not all archive formats.
-2. Windows context menu "Send to compressed (zipped) folder": if you want it to support more platforms.
-3. ZArchiver: for Android.
+1. [7-Zip-zstd](https://mcmilk.de/projects/7-Zip-zstd/) (7zip with additional algorithms): because I can't imagine why people are still using WinRAR. Use LZMA2 with compression level set to Ultra for best results (this is slow). 7zip file manager opens most if not all archive formats. _Bonus plugins:_ https://www.tc4shell.com/en/7zip/
+3. Windows context menu "Send to compressed (zipped) folder": if you want it to support more platforms.
+4. ZArchiver: for Android.
 
 ## Download managers
 
-1. Free Download Manager: has most of what you need + torrents.
-2. ADM: for Android.
+1. Free Download Manager: has most of what you need + torrents, for Windows and Android.
 
 ## E-book readers (software)
 
