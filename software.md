@@ -1,7 +1,4 @@
-# handpicked
-
-Software and other stuff that I use. Storing here in case if I lose my memory. 🤷‍♂️  
-I'm not affiliated with any of the software below unless mentioned otherwise.
+# Software and services
 
 ## Video players
 
@@ -10,7 +7,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 3. KM Player: A popular media player.
 4. MX Player: I use this on Android as my default player.
 
-## Video converters etc.
+## Video converters etc
 
 1. XMedia Recode
 
@@ -30,11 +27,11 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 ## Hex editors
 
 1. HxD: Free and enough.
-2. https://hexed.it/: All apps are going online. This is a good example.
+2. <https://hexed.it/>: All apps are going online. This is a good example.
 
 ## JSON Editors
 
-1. https://jsoneditoronline.org/: or just use vscode.
+1. <https://jsoneditoronline.org/>: or just use vscode.
 
 ## Database Clients
 
@@ -57,7 +54,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 1. Press Win+G to open Windows game bar, if you are a normal person.
 2. ShareX: A free, feature rich screen capture tool.
-3. https://screenapp.io/: An online screen recorder with more features if you pay. I was a developer here so 😁
+3. <https://screenapp.io/>: An online screen recorder with more features if you pay. I was a developer here so 😁
 
 ## Office
 
@@ -71,7 +68,7 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 ## Compression/archiving
 
-1. [7-Zip-zstd](https://mcmilk.de/projects/7-Zip-zstd/) (7zip with additional algorithms): because I can't imagine why people are still using WinRAR. Use LZMA2 with compression level set to Ultra for best results (this is slow). 7zip file manager opens most if not all archive formats. _Bonus plugins:_ https://www.tc4shell.com/en/7zip/
+1. [7-Zip-zstd](https://mcmilk.de/projects/7-Zip-zstd/) (7zip with additional algorithms): because I can't imagine why people are still using WinRAR. Use LZMA2 with compression level set to Ultra for best results (this is slow). 7zip file manager opens most if not all archive formats. _Bonus plugins:_ <https://www.tc4shell.com/en/7zip/>
 3. Windows context menu "Send to compressed (zipped) folder": if you want it to support more platforms.
 4. ZArchiver: for Android.
 
@@ -87,12 +84,16 @@ I'm not affiliated with any of the software below unless mentioned otherwise.
 
 ## Cloud storage and backup
 
-1. https://mega.nz/
+1. <https://mega.nz/>
 
 ## E-mail providers
 
-1. https://proton.me/: encrypted email.
+1. <https://proton.me/>: encrypted email.
 
 ## Dictionary
 
 1. WordWeb: This can show similar words, subtypes, supertypes etc. If you are using the Android version, you can cheat hangman with the wildcard search support.
+
+## Reverse dictionary
+
+1. <https://wantwords.net/>: an opensource reverse dictionary based on [Multi-channel Reverse Dictionary Model](https://github.com/thunlp/WantWords)
