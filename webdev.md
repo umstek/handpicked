@@ -2,10 +2,10 @@
 
 ## Frontend
 - Language: [TypeScript](https://www.typescriptlang.org/)
-- Framework: [NextJS](https://nextjs.org/) (For SSR+, optional) or [Remix](https://remix.run/) (For nested content, optional, yet to try) or [Astro](https://astro.build/) (For SSG/blog, optional, yet to try)
+- Framework: [NextJS](https://nextjs.org/) (For SSR+, optional) or [Remix](https://remix.run/) (For nested content, optional, yet to try) or [Astro](https://astro.build/) (For SSG/blog, optional, my blog is Astro)
 - State Management: [RxJS](https://rxjs.dev/) based redux-equivivalent or [Apollo Client](https://www.apollographql.com/) if using [GraphQL](https://graphql.org/), [React Router](https://reactrouter.com/)
 - UI Library: [React](https://reactjs.org/)
-- Components/Styling: [TailwindCSS](https://tailwindcss.com/) augmented with, [Headless UI](https://headlessui.dev/) or [Radix UI](https://www.radix-ui.com/)
+- Components/Styling: [TailwindCSS](https://tailwindcss.com/) augmented with, [Headless UI](https://headlessui.dev/) or [Radix UI](https://www.radix-ui.com/) or [the components used in Ant.Design](http://react-component.github.io/badgeboard/)
 - Compiler/bundler: [Vite](https://vitejs.dev/) (Uses [esbuild](https://esbuild.github.io/)) or [SWC](https://swc.rs/) (NextJS uses SWC)
 - Testing: [Jest](https://jestjs.io/)/[TS-Jest](https://kulshekhar.github.io/ts-jest/) or [vitest](https://vitest.dev/), [Testing Library](https://testing-library.com/) (yet to try)
 
