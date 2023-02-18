@@ -27,7 +27,8 @@
 ## Hex editors
 
 1. HxD: Free and enough.
-2. <https://hexed.it/>: All apps are going online. This is a good example.
+2. [ImHex](https://github.com/WerWolv/ImHex): A hex editor with a massive plugin system.
+3. <https://hexed.it/>: All apps are going online. This is a good example.
 
 ## JSON Editors
 
@@ -55,6 +56,7 @@
 1. Press Win+G to open Windows game bar, if you are a normal person.
 2. ShareX: A free, feature rich screen capture tool.
 3. <https://screenapp.io/>: An online screen recorder with more features if you pay. I was a developer here so 😁
+4. [OBS Studio](https://obsproject.com/): A broadcaster software. Overkill for just a screen recording. A suggestion by a friend. 
 
 ## Office
 
@@ -64,7 +66,7 @@
 
 ## Note-taking software/journaling
 
-1. Notion: this is the best I've come across. Good for drafting ideas, planning trips, keeping shopping lists, [comparing products](https://twitter.com/hexmint/status/1355204683791429634), whatnot.
+1. Notion: this is the best I've come across. Good for drafting ideas, planning trips, keeping shopping lists, [comparing products](https://twitter.com/hexmint/status/1355204683791429634), whatnot. Now it has its own Chat-GPT like AI assistant. 
 
 ## Compression/archiving
 
