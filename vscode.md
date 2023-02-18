@@ -24,7 +24,7 @@ Supercharge Git within VS Code — Visualize code authorship at a glance via Git
 
 ### JavaScript Refactoring Assistant
 
-Edit, modernize, and refactor JavaScript, TypeScript, and React code effectively with 85+ code actions.  
+Edit, modernize, and refactor JavaScript, TypeScript, and React code effectively with 85+ code actions. NOT FREE ANYMORE.   
 <https://marketplace.visualstudio.com/items?itemName=p42ai.refactor>
 
 ### Prettier - Code formatter
