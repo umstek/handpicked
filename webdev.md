@@ -25,4 +25,4 @@
 - Formatter: [Prettier](https://prettier.io/)
 - Linter: [ESLint](https://eslint.org/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- E2E Testing: [Playwright](https://code.visualstudio.com/) (yet to try)
+- E2E Testing: [Playwright](https://code.visualstudio.com/)
