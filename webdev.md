@@ -11,10 +11,10 @@
 
 ## Backend
 - Language: TypeScript
-- Framework: [NestJS](https://nestjs.com/) ([express](https://expressjs.com/) based, create standard APIs fast), or [Fastify](https://www.fastify.io/) (performant, flexible)
+- Framework: [NestJS](https://nestjs.com/) ([express](https://expressjs.com/) based [or optionally fastify based], create standard APIs fast), or [Fastify](https://www.fastify.io/) (performant, flexible more framework-ey than express)
 - Library: Express and Apollo if using GraphQL
 - Compiler/bundler: NestJS default (TSC)
-- Database/ORM-equivalent: [MongoDB](https://www.mongodb.com/)/[Mongoose](https://mongoosejs.com/) (flexible) or MongoDB/[TypeORM](https://typeorm.io/) (clean) or [MariaDB](https://mariadb.org/)/[Prisma](https://www.prisma.io/)
+- Database/ORM-equivalent: [MongoDB](https://www.mongodb.com/)/[Mongoose](https://mongoosejs.com/) (flexible and simplifies most use cases, but the official driver will still be the most flexible) or MongoDB/[TypeORM](https://typeorm.io/) (clean) or [MariaDB](https://mariadb.org/)/[Prisma](https://www.prisma.io/) or MariaDB/[Sequelize](https://sequelize.org/)
 - Testing: Jest/TS-Jest
 
 ## Other
