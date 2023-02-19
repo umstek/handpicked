@@ -7,3 +7,5 @@ Software and other stuff that I personally recommend
 ## [Webdev](webdev.md)
 
 ## [vscode](vscode.md)
+
+## [Ubuntu (latest/+WSL2)](system.ubuntu.wsl2.md)
