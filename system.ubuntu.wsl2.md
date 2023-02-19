@@ -48,4 +48,5 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 1
 # Use latest NVM script from here https://github.com/nvm-sh/nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 nvm install --lts # or nvm install node for latest non-lts versions
+npm i -g pnpm # optional, use PNPM as the package manager
 ```
