@@ -10,6 +10,7 @@
 ## Video converters etc
 
 1. XMedia Recode
+2. ffmpeg if you're good with command line
 
 ## Virtualization software
 
@@ -23,6 +24,7 @@
 
 1. Visual Studio Code: Obviously. I'm not that geeky to use vim or emacs.
 2. Notepad++: Use it when the need is simple and vscode is overkill. I use it to edit configuration files etc. but it is powerful and can replace your favorite editor if you use it with its plugin ecosystem.
+3. Neovim: I'm unfamiliar with (neo)vim, but you might be able to get this configured with [AstroNvim](https://github.com/AstroNvim/AstroNvim), [Nvim Basic IDE](https://github.com/LunarVim/nvim-basic-ide), or [LazyVim](https://www.lazyvim.org/) that it will be closer to an IDE. 
 
 ## Hex editors
 
