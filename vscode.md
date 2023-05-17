@@ -32,6 +32,11 @@ Edit, modernize, and refactor JavaScript, TypeScript, and React code effectively
 Code formatter using prettier  
 <https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>
 
+### Console Ninja
+
+Console Ninja is a VS Code extension that displays console.log output and runtime errors directly in your editor from your running browser or node application.  
+<https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja>
+
 ### Todo Tree
 
 Show TODO, FIXME, etc. comment tags in a tree view  
