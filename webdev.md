@@ -26,3 +26,13 @@
 - Linter: [ESLint](https://eslint.org/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - E2E Testing: [Playwright](https://code.visualstudio.com/)
+
+### Other libraries for JavaScript/TypeScript
+- Functional Reactive Programming: [RxJS](https://rxjs.dev/)
+- Date/Time: [Date-fns](https://date-fns.org/)
+
+### Other libraries for React
+- Forms: [React Hook Form](https://react-hook-form.com/)
+- Displaying a large set of data efficiently: [React Window](https://github.com/bvaughn/react-window)
+- Routing: [React Router](https://reactrouter.com/en/main)
+- Managing Meta Tags: [React Helmet Async](https://github.com/staylor/react-helmet-async)
