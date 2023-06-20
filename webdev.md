@@ -26,6 +26,7 @@
 - Linter: [ESLint](https://eslint.org/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - E2E Testing: [Playwright](https://code.visualstudio.com/)
+- Sending email: [Resend](https://resend.com/) (yet to try)
 
 ### Other libraries for JavaScript/TypeScript
 - Functional Reactive Programming: [RxJS](https://rxjs.dev/)
