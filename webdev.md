@@ -24,7 +24,8 @@
 - CDN: [Cloudflare](https://www.cloudflare.com/)
 - Formatter: [Prettier](https://prettier.io/)
 - Linter: [ESLint](https://eslint.org/)
-- Editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Editor: [Visual Studio Code](https://code.visualstudio.com/), Or [Neovim](https://neovim.io/) + a good "framework" like [LunarVim](https://www.lunarvim.org/) can serve you same or better than vscode, but I'm not that nerdy.
+- Shell: [ZSH](https://www.zsh.org/) + [Oh My Zsh](https://ohmyz.sh/)
 - E2E Testing: [Playwright](https://code.visualstudio.com/)
 - Sending email: [Resend](https://resend.com/) (yet to try)
 
