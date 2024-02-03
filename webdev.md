@@ -34,10 +34,10 @@
 ### Other libraries for JavaScript/TypeScript
 - Functional Reactive Programming: [RxJS](https://rxjs.dev/)
 - Date/Time: All of them are garbage; try to use temporal API with [@js-temporal/polyfill](https://github.com/js-temporal/temporal-polyfill) and write methods yourself.
-- Making interactive CLIs: [prompts](https://github.com/terkelg/prompts)
 
 ### Other libraries for React
 - Forms: [React Hook Form](https://react-hook-form.com/)
+- I18n: [FormatJS/React-Intl](https://formatjs.io/)
 - Displaying a large set of data efficiently: [Tanstack Virtual](https://tanstack.com/virtual/latest), [React Window](https://github.com/bvaughn/react-window)
 - Routing: [React Router](https://reactrouter.com/en/main)
 - Managing Meta Tags: [React Helmet Async](https://github.com/staylor/react-helmet-async)
