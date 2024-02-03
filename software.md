@@ -68,7 +68,8 @@
 
 ## Note-taking software/journaling
 
-1. Notion: this is the best I've come across. Good for drafting ideas, planning trips, keeping shopping lists, [comparing products](https://twitter.com/hexmint/status/1355204683791429634), whatnot. Now it has its own Chat-GPT like AI assistant. 
+1. [Obsidian](https://obsidian.md/): This wasn't that good for some time but now it has a massive, open plugin system. Maybe as not as pretty as Notion, but it uses markdown mainly. This is my default note taker.
+3. Notion: this ~is~ was the best I've come across. Good for drafting ideas, planning trips, keeping shopping lists, [comparing products](https://twitter.com/hexmint/status/1355204683791429634), whatnot. Now it has its own Chat-GPT like AI assistant. 
 
 ## Compression/archiving
 
@@ -100,4 +101,4 @@
 
 ## Reverse dictionary
 
-1. <https://wantwords.net/>: an opensource reverse dictionary based on [Multi-channel Reverse Dictionary Model](https://github.com/thunlp/WantWords)
+1. [WantWords](https://wantwords.net): an opensource reverse dictionary based on [Multi-channel Reverse Dictionary Model](https://github.com/thunlp/WantWords) but probably now you can just use ChatGPT.
