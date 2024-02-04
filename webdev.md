@@ -2,7 +2,7 @@
 
 ## Frontend
 - Language: [TypeScript](https://www.typescriptlang.org/)
-- Framework (better not use a framework and just use vite): [NextJS](https://nextjs.org/) (For SSR+, optional, there's a lot to learn and it does significant API changes now and then) or [Remix](https://remix.run/) (For nested content, optional, yet to try) or [Astro](https://astro.build/) (For SSG/blog, optional, my blog is Astro. Astro _probably_ can do whatever nextjs does, better).
+- Framework (better not use a framework and just use vite): [NextJS](https://nextjs.org/) (For SSR+, optional, not a personal recommendation, only professional) or [Remix](https://remix.run/) (For nested content, optional, yet to try) or [Astro](https://astro.build/) (For SSG/blog, optional, my blog is Astro. Astro _probably_ can do whatever nextjs does, better).
 - State Management: [RxJS](https://rxjs.dev/) based redux-equivivalent or [Apollo Client](https://www.apollographql.com/) if using [GraphQL](https://graphql.org/), [React Router](https://reactrouter.com/). TBH haven't found anything good, yet. Certainly not redux.
 - UI Library: [React](https://reactjs.org/)
 - Components/Styling: [TailwindCSS](https://tailwindcss.com/) for styling; [React Aria by Adobe](https://react-spectrum.adobe.com/react-aria/), [Radix UI](https://www.radix-ui.com/), [Material UI Base](https://mui.com/base-ui/getting-started/), [Headless UI](https://headlessui.dev/) (not many components), or [the components used in Ant.Design](http://react-component.github.io/badgeboard/) -- all of them are unstyled components; you likely can use them together. You may also want to look at [Shadcn UI](https://ui.shadcn.com/) which downloads component templates created using Radix UI and TailwindCSS.  
