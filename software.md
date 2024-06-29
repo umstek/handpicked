@@ -2,7 +2,7 @@
 
 ## Video players
 
-1. VLC Media Player: I liked the 2.x but when 3.x arrived, some things were broken. Now all of them are fixed I guess and you are good to go. VLC (for Android) was the only player that could render HDR content (software rendered with messed up colors, but still) on my old non-HDR phone.
+1. VLC Media Player: VLC (for Android) was the only player that could render HDR content (software rendered with messed up colors, but still) on my old non-HDR phone.
 2. Daum PotPlayer: This is my current choice on Windows. Plays all formats just like VLC. Better UI and controls.
 3. KM Player: A popular media player.
 4. MX Player: I use this on Android as my default player.
@@ -18,7 +18,8 @@
 
 ## Sharing mouse and keyboard among computers
 
-1. Mouse without Boarders: A Microsoft Garage Project. Shares mouse/keyboard/clipboard/drag-drop among upto 4 PCs. Sometimes, there's a lag and this is natural. (If you have a logitech mouse, you can use Logi Options+ Flow.)
+1. [Mouse without Boarders](https://learn.microsoft.com/en-us/windows/powertoys/mouse-without-borders): A Microsoft Garage Project. Shares mouse/keyboard/clipboard/drag-drop among upto 4 PCs. Sometimes, there's a lag and this is natural. This is now integrated into powertoys.
+2. If you have a logitech mouse, you can use Logi Options+ Flow.
 
 ## Code Editors
 
@@ -28,18 +29,19 @@
 
 ## Hex editors
 
-1. HxD: Free and enough.
-2. [ImHex](https://github.com/WerWolv/ImHex): A hex editor with a massive plugin system.
-3. <https://hexed.it/>: All apps are going online. This is a good example.
+1. [ImHex](https://github.com/WerWolv/ImHex): A hex editor with a massive plugin system.
+2. HxD: Free and enough.
 
 ## JSON Editors
 
-1. <https://jsoneditoronline.org/>: or just use vscode.
+1. [JSON editor online](https://jsoneditoronline.org)
+2. or just use vscode.
 
 ## Database Clients
 
-1. HeidiSQL: A free client for postgres, mysql etc.
-2. MongoDBCompass: Official client for MongoDB
+1. [DBeaver](https://dbeaver.io/)
+2. [HeidiSQL](https://www.heidisql.com/): A free client for postgres, mysql etc.
+3. MongoDBCompass: Official client for MongoDB
 
 ## Password managers
 
@@ -47,18 +49,19 @@
 
 ## 2FA managers
 
-1. Authy: Because Google Authenticator doesn't have sync, I lost access to one of my valuable accounts. I switched to Authy from that day.
+1. Authy: Because Google Authenticator's lack of sync, I lost access to one of my valuable accounts. I switched to Authy from that day. (Anyway the account was bitbucket and I recovered it recently.)
 
 ## Antivirus software
 
 1. Windows Defender: It sometimes [doesn't detect](https://twitter.com/hexmint/status/1370578440898846723) malware that it should, and at other times it bothers me when I knowingly open 'dangerous things'. Except that, it's enough.
 
-## Screen recorders
+## Screen recorders/screenshot tools
 
 1. Press Win+G to open Windows game bar, if you are a normal person.
-2. ShareX: A free, feature rich screen capture tool.
-3. <https://screenapp.io/>: An online screen recorder with more features if you pay. I was a developer here so 😁
-4. [OBS Studio](https://obsproject.com/): A broadcaster software. Overkill for just a screen recording. A suggestion by a friend. 
+2. [Flameshot](https://flameshot.org/): This is just a screenshot tool with most commonly needed features.
+3. ShareX: A free, feature rich screen capture tool. Captures Screenshots, GIFs etc.
+4. [ScreenApp](https://screenapp.io): An online screen recorder, library, transcription, etc. (some are paid features). I was a developer here so 😁
+5. [OBS Studio](https://obsproject.com/): A broadcaster software. Overkill for just a screen recording. A suggestion by a friend. 
 
 ## Office
 
@@ -93,7 +96,7 @@
 
 ## E-mail providers
 
-1. <https://proton.me/>: encrypted email.
+1. [ProtonMail](https://proton.me): encrypted email.
 
 ## Dictionary
 
