@@ -24,8 +24,9 @@
 ## Code Editors
 
 1. Visual Studio Code: Obviously. I'm not that geeky to use vim or emacs.
-2. Notepad++: Use it when the need is simple and vscode is overkill. I use it to edit configuration files etc. but it is powerful and can replace your favorite editor if you use it with its plugin ecosystem.
-3. Neovim: I'm unfamiliar with (neo)vim, but you might be able to get this configured with [AstroNvim](https://github.com/AstroNvim/AstroNvim), [Nvim Basic IDE](https://github.com/LunarVim/nvim-basic-ide), or [LazyVim](https://www.lazyvim.org/) that it will be closer to an IDE. 
+2. [Cursor](https://www.cursor.com/refer-a-friend?code=WVXQ4I5253410): A clone of VS Code with better AI integration. Possibly the best AI editor out there among VSCode with Copilot, Windsurf, and Cody.
+3. Notepad++: Use it when the need is simple and vscode is overkill. I use it to edit configuration files etc. but it is powerful and can replace your favorite editor if you use it with its plugin ecosystem.
+4. Neovim: I'm unfamiliar with (neo)vim, but you might be able to get this configured with [AstroNvim](https://github.com/AstroNvim/AstroNvim), [Nvim Basic IDE](https://github.com/LunarVim/nvim-basic-ide), or [LazyVim](https://www.lazyvim.org/) that it will be closer to an IDE. 
 
 ## Hex editors
 
@@ -42,6 +43,7 @@
 1. [DBeaver](https://dbeaver.io/)
 2. [HeidiSQL](https://www.heidisql.com/): A free client for postgres, mysql etc.
 3. MongoDBCompass: Official client for MongoDB
+4. [Tiny RDM](https://github.com/tiny-craft/tiny-rdm): A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
 ## Password managers
 
@@ -83,6 +85,7 @@
 ## Download managers
 
 1. Free Download Manager: has most of what you need + torrents, for Windows and Android.
+2. Seal: a GUI for yt-dlp (YouTube downloader, but not just youtube) for Android. You'll need to install the F-Droid store.
 
 ## E-book readers (software)
 
