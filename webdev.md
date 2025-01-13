@@ -12,7 +12,7 @@
 ## Backend
 - Language: TypeScript
 - Runtime: [Bun](https://bun.sh/) when stable, NodeJS for now
-- Framework: [NestJS](https://nestjs.com/) ([express](https://expressjs.com/) based [or optionally fastify based], create standard APIs fast), or [Fastify](https://www.fastify.io/) (performant, flexible more framework-ey than express)
+- Framework: [NestJS](https://nestjs.com/) ([express](https://expressjs.com/) based [or optionally fastify based], create standard APIs fast)
 - Next-gen (kind of) frameworks: [Hono](https://hono.dev/) runs on edge platforms too, [Elysia](https://elysiajs.com/).
 - Libraries: Express and Apollo if using GraphQL
 - Database/ORM-equivalent: For [MongoDB](https://www.mongodb.com/) -> [Mongoose](https://mongoosejs.com/) (flexible and simplifies most use cases, but if you can help it, just use the official mongodb driver) or [TypeORM](https://typeorm.io/) (clean). For [MariaDB](https://mariadb.org/) -> [Drizzle](https://orm.drizzle.team/) or [Sequelize](https://sequelize.org/) (old way). 
