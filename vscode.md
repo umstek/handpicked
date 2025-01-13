@@ -47,14 +47,43 @@ Show TODO, FIXME, etc. comment tags in a tree view
 An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.  
 <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
+### Tailwind CSS IntelliSense
+
+Intelligent Tailwind CSS tooling for VS Code  
+<https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss>
+
 ## Themes
+
+### Monospace Theme (Project IDX)
+
+Monospace Theme for VSCode  
+<https://marketplace.visualstudio.com/items?itemName=keksiqc.idx-monospace-theme>
 
 ### GitHub Theme
 
 GitHub theme for VS Code  
 <https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme>
 
+### Bearded Theme
+
+The theme with a long beard.  
+<https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme>
+
+### Ayu
+A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.  
+<https://marketplace.visualstudio.com/items?itemName=teabyii.ayu>
+
+### Night Owl
+
+A VS Code theme for the night owls out there.  
+<https://marketplace.visualstudio.com/items?itemName=sdras.night-owl>
+
 ### Material Icon Theme
 
 Material Design Icons for Visual Studio Code  
 <https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme>
+
+### Fluent Icons
+
+Fluent product icons for Visual Studio Code  
+<https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons>
