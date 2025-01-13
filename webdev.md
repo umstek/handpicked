@@ -2,7 +2,7 @@
 
 ## Frontend
 - Language: [TypeScript](https://www.typescriptlang.org/)
-- Framework (better not use a framework and just use vite): [NextJS](https://nextjs.org/) (For SSR+, optional, not a personal recommendation, only professional) or [Remix](https://remix.run/) (For nested content, optional, yet to try) or [Astro](https://astro.build/) (For SSG/blog, optional, my blog is Astro. Astro _probably_ can do whatever nextjs does, better).
+- Framework (better not use a framework and just use vite): [NextJS](https://nextjs.org/) (I just recommend this because it's widely used, otherwise it's garbage) or [Remix](https://remix.run/) (For nested content, optional, yet to try) or [Astro](https://astro.build/) (For SSG/blog, optional, my blog is Astro. Astro _probably_ can do whatever nextjs does, better).
 - State Management: [RxJS](https://rxjs.dev/) based redux-equivivalent or [Apollo Client](https://www.apollographql.com/) if using [GraphQL](https://graphql.org/), [React Router](https://reactrouter.com/). TBH haven't found anything good, yet. Certainly not redux.
 - UI Library: [React](https://reactjs.org/)
 - Components/Styling: [TailwindCSS](https://tailwindcss.com/) for styling; [React Aria by Adobe](https://react-spectrum.adobe.com/react-aria/), [Radix UI](https://www.radix-ui.com/), [Material UI Base](https://mui.com/base-ui/getting-started/), [Headless UI](https://headlessui.dev/) (not many components), or [the components used in Ant.Design](http://react-component.github.io/badgeboard/) -- all of them are unstyled components; you likely can use them together. You may also want to look at [Shadcn UI](https://ui.shadcn.com/) which downloads component templates created using Radix UI and TailwindCSS.  
@@ -24,10 +24,10 @@
 - VCS/Repo: [Git](https://git-scm.com/)/[GitHub](https://github.com/)
 - CI/CD: [GitHub Actions](https://github.com/features/actions)
 - CDN: [Cloudflare](https://www.cloudflare.com/)
-- Formatter: [Prettier](https://prettier.io/)
-- Linter: [ESLint](https://eslint.org/)
-- Editor: [Visual Studio Code](https://code.visualstudio.com/), [Zed](https://zed.dev/) (mac only) or [Neovim](https://neovim.io/) + a good "framework" like [LunarVim](https://www.lunarvim.org/) may serve you same or better than vscode, but I'm not that nerdy.
-- Shell: [ZSH](https://www.zsh.org/) + [Oh My Zsh](https://ohmyz.sh/)
+- Formatter: [Biome](https://biomejs.dev/), [Prettier](https://prettier.io/)
+- Linter: Biome, [ESLint](https://eslint.org/)
+- Editor: [Cursor - The AI code editor](https://www.cursor.com/refer-a-friend?code=WVXQ4I5253410), [Visual Studio Code](https://code.visualstudio.com/), [Zed](https://zed.dev/), or [Neovim](https://neovim.io/) + a good "framework" like [LunarVim](https://www.lunarvim.org/) may serve you same or better than vscode, but I'm not that nerdy.
+- Shell: [Warp](https://www.warp.dev/) with AI support, [ZSH](https://www.zsh.org/) + [Oh My Zsh](https://ohmyz.sh/)
 - E2E Testing: [Playwright](https://code.visualstudio.com/)
 - Sending email: [Resend](https://resend.com/) (yet to try)
 
