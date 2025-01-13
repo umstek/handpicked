@@ -95,7 +95,7 @@
 
 ## Cloud storage and backup
 
-1. <https://mega.nz/>
+1. [Mega](https://mega.nz/)
 
 ## E-mail providers
 
@@ -104,6 +104,7 @@
 ## Dictionary
 
 1. WordWeb: This can show similar words, subtypes, supertypes etc. If you are using the Android version, you can cheat hangman with the wildcard search support.
+2. Or just use Google `define <the word you want>`
 
 ## Reverse dictionary
 
