@@ -42,8 +42,9 @@
 
 1. [DBeaver](https://dbeaver.io/)
 2. [HeidiSQL](https://www.heidisql.com/): A free client for postgres, mysql etc.
-3. MongoDBCompass: Official client for MongoDB
-4. [Tiny RDM](https://github.com/tiny-craft/tiny-rdm): A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+3. Drizzle Studio if you are using Drizzle in your software
+4. MongoDBCompass: Official client for MongoDB
+5. [Tiny RDM](https://github.com/tiny-craft/tiny-rdm): A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
 ## Password managers
 
@@ -70,17 +71,23 @@
 1. Microsoft Office: of course. (If you can afford it.) The Android version is good too, and with sync.
 2. WPS Office: Freeware. Lighter. Fails to render some unicode fonts. Android version is good too.
 3. Polaris Office: Okay I have 3 office programs in my phone and each of them has some feature that others don't.
+4. OnlyOffice: Better looks.
+
+## Game Launchers
+
+1. https://playnite.link/
 
 ## Note-taking software/journaling
 
 1. [Obsidian](https://obsidian.md/): This wasn't that good for some time but now it has a massive, open plugin system. Maybe as not as pretty as Notion, but it uses markdown mainly. This is my default note taker.
-3. Notion: this ~is~ was the best I've come across. Good for drafting ideas, planning trips, keeping shopping lists, [comparing products](https://twitter.com/hexmint/status/1355204683791429634), whatnot. Now it has its own Chat-GPT like AI assistant. 
+2. Notion: this ~is~ was the best I've come across. Good for drafting ideas, planning trips, keeping shopping lists, [comparing products](https://twitter.com/hexmint/status/1355204683791429634), whatnot. Now it has its own Chat-GPT like AI assistant.
+3. [Affine](https://affine.pro/) looks like the best notion alternative with free 10 GB as well, and it's self-hostable.
 
 ## Compression/archiving
 
 1. [7-Zip-zstd](https://mcmilk.de/projects/7-Zip-zstd/) (7zip with additional algorithms): because I can't imagine why people are still using WinRAR. Use LZMA2 with compression level set to Ultra for best results (this is slow). 7zip file manager opens most if not all archive formats. _Bonus plugins:_ <https://www.tc4shell.com/en/7zip/>
-3. Windows context menu "Send to compressed (zipped) folder": if you want it to support more platforms.
-4. ZArchiver: for Android.
+2. Windows context menu "Send to compressed (zipped) folder": if you want it to support more platforms.
+3. ZArchiver: for Android.
 
 ## Download managers
 
@@ -105,7 +112,13 @@
 
 1. WordWeb: This can show similar words, subtypes, supertypes etc. If you are using the Android version, you can cheat hangman with the wildcard search support.
 2. Or just use Google `define <the word you want>`
+3. But now you have all those "AI"s
 
 ## Reverse dictionary
 
 1. [WantWords](https://wantwords.net): an opensource reverse dictionary based on [Multi-channel Reverse Dictionary Model](https://github.com/thunlp/WantWords) but probably now you can just use ChatGPT.
+
+## AI related
+
+1. Coding models: Claude Opus 4.5 (proprietary), GLM-4.7 (open)
+2. Coding clients: droids, kilo code, opencode
