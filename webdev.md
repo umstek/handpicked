@@ -26,9 +26,9 @@
 - CDN: [Cloudflare](https://www.cloudflare.com/)
 - Formatter: [Biome](https://biomejs.dev/), [Prettier](https://prettier.io/)
 - Linter: Biome, [ESLint](https://eslint.org/)
-- Editor: [Cursor - The AI code editor](https://www.cursor.com/refer-a-friend?code=WVXQ4I5253410), [Visual Studio Code](https://code.visualstudio.com/), [Zed](https://zed.dev/), or [Neovim](https://neovim.io/) + a good "framework" like [LunarVim](https://www.lunarvim.org/) may serve you same or better than vscode, but I'm not that nerdy.
+- Editor: [Cursor - The AI code editor](https://www.cursor.com/refer-a-friend?code=WVXQ4I5253410), [Visual Studio Code](https://code.visualstudio.com/), or [Zed](https://zed.dev/).
 - Shell: [Warp](https://www.warp.dev/) with AI support, [ZSH](https://www.zsh.org/) + [Oh My Zsh](https://ohmyz.sh/)
-- E2E Testing: [Playwright](https://code.visualstudio.com/)
+- E2E Testing: [Playwright](https://playwright.dev/)
 - Sending email: [Resend](https://resend.com/) (yet to try)
 
 ### Other libraries for JavaScript/TypeScript
@@ -39,5 +39,5 @@
 - Forms: [React Hook Form](https://react-hook-form.com/)
 - I18n: [FormatJS/React-Intl](https://formatjs.io/)
 - Displaying a large set of data efficiently: [Tanstack Virtual](https://tanstack.com/virtual/latest), [React Window](https://github.com/bvaughn/react-window)
-- Routing: [React Router](https://reactrouter.com/en/main)
+- Routing: [React Router](https://reactrouter.com/)
 - Managing Meta Tags: [React Helmet Async](https://github.com/staylor/react-helmet-async)

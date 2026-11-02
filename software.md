@@ -26,7 +26,6 @@
 1. Visual Studio Code: Obviously. I'm not that geeky to use vim or emacs.
 2. [Cursor](https://www.cursor.com/refer-a-friend?code=WVXQ4I5253410): A clone of VS Code with better AI integration. Possibly the best AI editor out there among VSCode with Copilot, Windsurf, and Cody.
 3. Notepad++: Use it when the need is simple and vscode is overkill. I use it to edit configuration files etc. but it is powerful and can replace your favorite editor if you use it with its plugin ecosystem.
-4. Neovim: I'm unfamiliar with (neo)vim, but you might be able to get this configured with [AstroNvim](https://github.com/AstroNvim/AstroNvim), [Nvim Basic IDE](https://github.com/LunarVim/nvim-basic-ide), or [LazyVim](https://www.lazyvim.org/) that it will be closer to an IDE. 
 
 ## Hex editors
 
